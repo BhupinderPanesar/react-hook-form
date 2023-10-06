@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "rsP5P7Qg8fd0K71V41dqhoYEJewatCrP1nGWKds30WexIwsuTdjowEbKna80Go0CR6zueJwNtYg6vaeuqnxYPg==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\Training\\React\\ReactHookForm\\server\\UserForm\\UserForm.Api\\UserForm.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BhupinderPanesar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\BhupinderPanesar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\BhupinderPanesar\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\BhupinderPanesar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\BhupinderPanesar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\BhupinderPanesar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
