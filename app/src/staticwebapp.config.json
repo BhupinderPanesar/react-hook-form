@@ -1,0 +1,16 @@
+{
+  "routes": [
+    {
+      "route": "/anonymous/*",
+      "allowedRoles": ["anonymous"]
+    },
+    {
+      "route": "/authenticated/*",
+      "allowedRoles": ["authenticated"]
+    },
+    {
+      "route": "/custom/*",
+      "allowedRoles": ["custom"]
+    }
+  ]
+}
